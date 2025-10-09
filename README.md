@@ -1,14 +1,11 @@
 # Data Science Discovery Piscine 42Berlin
 
----
+
 <br>
 
-#### Projects Overview
+## Projects Overview
 
-[**Data analyst**](https://github.com/VulpesDev/DataPiscineNotebook/blob/main/src/DataAnalyst.ipynb)
-
-This foundational project focused on exploratory data analysis (EDA) and visualization.
-The goal was to analyze the raw data and determine the most effective ways to display key statistics, distributions, and relationships.
+---
 
 [**Data Scientist 1**](https://github.com/VulpesDev/DataPiscineNotebook/blob/main/src/DataScientist-1.ipynb)
 
@@ -23,11 +20,18 @@ The final stage, focused on building, training and testing various classificatio
 Implementing and tuning models like Random Forest, K-Nearest Neighbors (KNN), and a Soft Voting Ensemble.
 Rigorous evaluation using metrics like Accuracy, F1-Score, and the Confusion Matrix to ensure robust performance and identify misclassifications.
 
+[**Data analyst**](https://github.com/VulpesDev/DataPiscineNotebook/blob/main/src/DataAnalyst.ipynb)
+
+This foundational project focused on exploratory data analysis (EDA) and visualization.
+The goal was to analyze the raw data and determine the most effective ways to display key statistics, distributions, and relationships.
 
 ---
+
+<br>
 <br>
 
-### Context
+## Context
+---
 
 This repository showcases my work completed in the Data Science Piscine at 42Berlin way back in June.
 
